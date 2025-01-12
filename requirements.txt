@@ -1,0 +1,4 @@
+Python 3.x
+Spotipy
+Pandas
+Boto3 (optional for S3 upload)

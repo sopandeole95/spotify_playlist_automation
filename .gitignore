@@ -1,0 +1,12 @@
+# Ignore Python virtual environment folders
+env/
+venv/
+airflow-env/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore CSV or temporary data files
+*.csv
+*.tmp
