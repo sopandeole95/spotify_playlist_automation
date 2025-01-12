@@ -12,3 +12,4 @@ __pycache__/
 *.tmp
 
 airflow_ec2_key.pem
+.cache
